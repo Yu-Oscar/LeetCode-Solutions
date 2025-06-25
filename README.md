@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [2502-sort-the-people](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
@@ -19,12 +20,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [2502-sort-the-people](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2502-sort-the-people) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2594-count-pairs-of-similar-strings) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [1894-merge-strings-alternately](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2502-sort-the-people](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2502-sort-the-people) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [3379-score-of-a-string](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3379-score-of-a-string) |
 ## Sorting
 |  |
@@ -77,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1708-design-parking-system) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2594-count-pairs-of-similar-strings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -86,4 +90,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2594-count-pairs-of-similar-strings](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2594-count-pairs-of-similar-strings) |
 <!---LeetCode Topics End-->
