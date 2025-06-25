@@ -112,4 +112,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
+## Tree
+|  |
+| ------- |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 <!---LeetCode Topics End-->
