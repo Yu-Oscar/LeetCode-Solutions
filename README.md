@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0890-lemonade-change](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0890-lemonade-change) |
+| [0958-sort-array-by-parity-ii](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2502-sort-the-people) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0958-sort-array-by-parity-ii](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [2502-sort-the-people](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0958-sort-array-by-parity-ii](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1894-merge-strings-alternately](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2634-minimum-common-value](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
