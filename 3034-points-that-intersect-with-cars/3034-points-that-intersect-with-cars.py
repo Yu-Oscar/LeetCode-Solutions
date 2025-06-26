@@ -6,5 +6,4 @@ class Solution:
             for i in range(num[0], num[1] + 1):
                 covered.add(i)
 
-        print(covered)
         return len(covered)
