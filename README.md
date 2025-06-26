@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2594-count-pairs-of-similar-strings](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [3379-score-of-a-string](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3379-score-of-a-string) |
+| [3447-clear-digits](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1708-design-parking-system](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1708-design-parking-system) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3447-clear-digits](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Counting
 |  |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [3447-clear-digits](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Trie
 |  |
 | ------- |
