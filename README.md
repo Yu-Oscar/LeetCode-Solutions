@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-sort-array-by-parity-ii](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1975-minimum-distance-to-the-target-element](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2454-largest-local-values-in-a-matrix) |
