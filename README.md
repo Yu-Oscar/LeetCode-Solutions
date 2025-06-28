@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2634-minimum-common-value](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 | [3034-points-that-intersect-with-cars](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2502-sort-the-people](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0890-lemonade-change](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
 ## Two Pointers
 |  |
 | ------- |
