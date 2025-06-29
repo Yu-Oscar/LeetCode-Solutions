@@ -3,11 +3,11 @@ class Solution:
         if num <= 1:
             return False
 
-        s = set()
+        s = 1
         for i in range(2, int(num**0.5) + 1):
             if num % i == 0:
-                s.add(i)
-                s.add(int(num/i))
+                s += i
+                s += int(num/i)
         
-        return num == (sum(s) + 1)
+        return num == s
         
