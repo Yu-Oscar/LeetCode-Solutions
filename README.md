@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0507-perfect-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [2507-number-of-common-factors](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2507-number-of-common-factors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2619-categorize-box-according-to-criteria) |
