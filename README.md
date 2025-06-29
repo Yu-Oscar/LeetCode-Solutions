@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0392-is-subsequence](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1454-remove-palindromic-subsequences) |
 | [1894-merge-strings-alternately](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Graph
 |  |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0958-sort-array-by-parity-ii](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1454-remove-palindromic-subsequences](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1454-remove-palindromic-subsequences) |
 | [1894-merge-strings-alternately](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
