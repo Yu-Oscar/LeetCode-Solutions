@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1619-path-crossing](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1619-path-crossing) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2502-sort-the-people](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2502-sort-the-people) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1260-day-of-the-year](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
 | [1454-remove-palindromic-subsequences](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1454-remove-palindromic-subsequences) |
+| [1619-path-crossing](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1619-path-crossing) |
 | [1894-merge-strings-alternately](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
