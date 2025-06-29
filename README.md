@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0898-transpose-matrix](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0932-monotonic-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
+| [1041-available-captures-for-rook](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1041-available-captures-for-rook) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0258-add-digits](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
+| [1041-available-captures-for-rook](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1041-available-captures-for-rook) |
 | [1708-design-parking-system](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1708-design-parking-system) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
+| [1041-available-captures-for-rook](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1041-available-captures-for-rook) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Bit Manipulation
