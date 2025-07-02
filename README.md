@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3034-points-that-intersect-with-cars](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Doubly-Linked List
 |  |
