@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1975-minimum-distance-to-the-target-element) |
+| [2048-build-array-from-permutation](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0898-transpose-matrix](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1041-available-captures-for-rook) |
 | [1708-design-parking-system](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1708-design-parking-system) |
+| [2048-build-array-from-permutation](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3447-clear-digits) |
