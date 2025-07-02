@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0268-missing-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
