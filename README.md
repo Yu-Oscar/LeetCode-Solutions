@@ -188,14 +188,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Enumeration
 |  |
