@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3034-points-that-intersect-with-cars](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1708-design-parking-system](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
