@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2502-sort-the-people](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0890-lemonade-change](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
 ## Two Pointers
 |  |
