@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [1260-day-of-the-year](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0035-search-insert-position](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 ## Tree
