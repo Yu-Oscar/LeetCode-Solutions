@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3193-maximum-strong-pair-xor-i](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3469-maximum-height-of-a-triangle](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3469-maximum-height-of-a-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2507-number-of-common-factors](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2507-number-of-common-factors) |
+| [3469-maximum-height-of-a-triangle](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3469-maximum-height-of-a-triangle) |
 ## Number Theory
 |  |
 | ------- |
