@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2502-sort-the-people](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1619-path-crossing](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1619-path-crossing) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
@@ -169,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1708-design-parking-system](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2791-find-the-losers-of-the-circular-game) |
