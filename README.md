@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1156-occurrences-after-bigram](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1156-occurrences-after-bigram) |
 | [1260-day-of-the-year](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
 | [1454-remove-palindromic-subsequences](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1454-remove-palindromic-subsequences) |
 | [1619-path-crossing](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1619-path-crossing) |
