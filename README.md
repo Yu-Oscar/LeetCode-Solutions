@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0507-perfect-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [1260-day-of-the-year](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2507-number-of-common-factors](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2507-number-of-common-factors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2619-categorize-box-according-to-criteria) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2048-build-array-from-permutation](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2791-find-the-losers-of-the-circular-game) |
