@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3034-points-that-intersect-with-cars](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3034-points-that-intersect-with-cars) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [3034-points-that-intersect-with-cars](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2507-number-of-common-factors](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2507-number-of-common-factors) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3469-maximum-height-of-a-triangle) |
 ## Number Theory
 |  |
