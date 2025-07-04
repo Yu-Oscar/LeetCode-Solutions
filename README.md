@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3379-score-of-a-string](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3447-clear-digits) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3636-check-balanced-string](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3636-check-balanced-string) |
 ## Sorting
 |  |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2630-alternating-digit-sum) |
 | [3371-harshad-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3371-harshad-number) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Design
