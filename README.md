@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3034-points-that-intersect-with-cars](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3379-score-of-a-string](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3447-clear-digits) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
