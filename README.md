@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2619-categorize-box-according-to-criteria](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2619-categorize-box-according-to-criteria) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2630-alternating-digit-sum) |
+| [3371-harshad-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3371-harshad-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Design
