@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-minimum-absolute-difference](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1762-furthest-building-you-can-reach](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1762-furthest-building-you-can-reach) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2048-build-array-from-permutation](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0890-lemonade-change](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1762-furthest-building-you-can-reach](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1762-furthest-building-you-can-reach) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
 ## Two Pointers
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1762-furthest-building-you-can-reach](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1762-furthest-building-you-can-reach) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
