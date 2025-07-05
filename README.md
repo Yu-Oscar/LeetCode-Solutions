@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2634-minimum-common-value](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3034-points-that-intersect-with-cars](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3034-points-that-intersect-with-cars) |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1041-available-captures-for-rook](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1041-available-captures-for-rook) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Bit Manipulation
 |  |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -336,4 +339,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Union Find
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
