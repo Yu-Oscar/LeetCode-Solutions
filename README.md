@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0747-min-cost-climbing-stairs](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0837-most-common-word](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0837-most-common-word) |
 | [0890-lemonade-change](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0890-lemonade-change) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0747-min-cost-climbing-stairs](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Greedy
 |  |
 | ------- |
@@ -251,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Binary Search
@@ -338,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1236-n-th-tribonacci-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Breadth-First Search
 |  |
@@ -347,4 +352,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
