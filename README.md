@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-minimum-absolute-difference](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1762-furthest-building-you-can-reach](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1762-furthest-building-you-can-reach) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1975-minimum-distance-to-the-target-element) |
