@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0463-island-perimeter) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -323,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -412,4 +415,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
