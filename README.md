@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0837-most-common-word](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0837-most-common-word) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Greedy
 |  |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -297,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -315,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
