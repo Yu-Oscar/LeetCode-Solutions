@@ -25,7 +25,8 @@ class Solution:
                 return 
 
             if node.val == subRoot.val and same(node, subRoot):
-                self.ans = True 
+                self.ans = True
+                return 
             dfs(node.left)
             dfs(node.right)
 
