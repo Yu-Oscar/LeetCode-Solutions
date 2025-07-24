@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-leaf-similar-trees](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-leaf-similar-trees](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -363,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-leaf-similar-trees](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Enumeration
@@ -447,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1005-univalued-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
