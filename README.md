@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Enumeration
@@ -394,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0933-increasing-order-search-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3447-clear-digits) |
@@ -457,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0933-increasing-order-search-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0933-increasing-order-search-tree) |
 ## String Matching
 |  |
 | ------- |
