@@ -296,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -455,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1035-cousins-in-binary-tree) |
