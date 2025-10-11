@@ -3,9 +3,7 @@ class Solution:
         s = set(nums)
 
         for i in range(len(nums)+1):
-            if i in s:
-                s.remove(i)
-            else:
+            if i not in s:
                 return i
         
         
