@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0837-most-common-word](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0837-most-common-word) |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0958-sort-array-by-parity-ii](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -195,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-sort-array-by-parity-ii](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
@@ -293,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0035-search-insert-position](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
