@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0500-keyboard-row](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0733-flood-fill](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0837-most-common-word](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0837-most-common-word) |
