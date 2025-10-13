@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0837-most-common-word](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0837-most-common-word) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1619-path-crossing](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1619-path-crossing) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-day-of-the-year](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
 | [1454-remove-palindromic-subsequences](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1454-remove-palindromic-subsequences) |
 | [1619-path-crossing](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1619-path-crossing) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1894-merge-strings-alternately](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
