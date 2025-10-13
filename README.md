@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2226-rings-and-rods](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2226-rings-and-rods) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2594-count-pairs-of-similar-strings) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2226-rings-and-rods](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2226-rings-and-rods) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2345-minimum-number-of-operations-to-convert-time) |
