@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0575-distribute-candies) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0837-most-common-word](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0837-most-common-word) |
 | [0857-positions-of-large-groups](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0857-positions-of-large-groups) |
@@ -566,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
