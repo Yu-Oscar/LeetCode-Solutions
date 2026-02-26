@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0733-flood-fill](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0837-most-common-word](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0837-most-common-word) |
 | [0890-lemonade-change](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0890-lemonade-change) |
@@ -559,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0933-increasing-order-search-tree) |
@@ -677,4 +679,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
