@@ -1,18 +1,15 @@
 function searchMatrix(matrix: number[][], target: number): boolean {
-    for (const row of matrix) {
-        if (row[0] <= target && target <= row[row.length-1]) {
-            let left = 0
-            let right = row.length -1
+    let left = 0
+    let right = matrix.length * matrix[0].length -1
 
-            while (left <= right) {
-                let mid = Math.floor((left+right)/2)
+    while (left <= right) {
+        let mid = Math.floor((left+right)/2)
+        let row = Math.floor(mid/matrix[0].length)
+        let col = mid % matrix[0].length
 
-                if (row[mid] == target) return true
-                if (row[mid] < target) left = mid + 1
-                else right = mid - 1
-            }
-        } 
+        if (matrix[row][col] == target) return true
+        if (matrix[row][col] < target) left = mid + 1
+        else right = mid - 1
     }
-
     return false
 };
