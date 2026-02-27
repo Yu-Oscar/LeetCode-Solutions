@@ -1,11 +1,8 @@
 function twoSum(nums: number[], target: number): number[] {
-    let map = new Map<number, number>();
-
+    const map = new Map()
+    
     for (let i = 0; i < nums.length; i++) {
-        let complement = target - nums[i]
-        if (map.has(complement)){
-            return [map.get(complement), i]
-        }
+        if (map.has(target - nums[i])) return [map.get(target - nums[i]), i]
         map.set(nums[i], i)
     }
 };
