@@ -11,8 +11,6 @@
  */
 
 function removeNthFromEnd(head: ListNode | null, n: number): ListNode | null {
-    const dummy = new ListNode(0, head)
-
     let front = head
     let end = head
     for (let i = 0; i < n; i++) {
