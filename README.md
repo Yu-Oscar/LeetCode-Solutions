@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
@@ -544,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -555,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
