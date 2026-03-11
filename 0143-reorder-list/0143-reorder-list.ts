@@ -16,12 +16,9 @@
 function reorderList(head: ListNode | null): void {
     let fast = head 
     let slow = head 
-    while (fast.next) {   
-        fast = fast.next
-        if (fast.next) {
-            fast = fast.next
-            slow = slow.next
-        }
+    while (fast && fast.next) {
+        slow = slow.next
+        fast = fast.next.next
     }
 
     let curr = slow.next
@@ -34,8 +31,6 @@ function reorderList(head: ListNode | null): void {
         prev = curr 
         curr = next
     }
-    console.log(head, prev)
-
     curr = head 
     while (curr && prev) {
         let next1 = curr.next
