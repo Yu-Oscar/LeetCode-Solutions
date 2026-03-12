@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0837-most-common-word](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0837-most-common-word) |
+| [0875-koko-eating-bananas](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0932-monotonic-array) |
@@ -412,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 ## Tree
