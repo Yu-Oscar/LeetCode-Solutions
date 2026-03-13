@@ -12,10 +12,6 @@ function findMin(nums: number[]): number {
         } else {
             right = mid
         }
-        console.log(left, right)
     }
-
-    console.log(left, right)
-
     return nums[right]
 };
