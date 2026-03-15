@@ -9,7 +9,7 @@ function subsetsWithDup(nums: number[]): number[][] {
             curr.push(nums[i]);
             recurr(i + 1, curr);
             let temp = curr.pop();
-            while (temp == nums[i+1] && i < nums.length) i ++
+            while (i+1 < nums.length && temp == nums[i+1]) i ++
         }
         
     }
