@@ -11,6 +11,7 @@ function combinationSum(candidates: number[], target: number): number[][] {
                 recurr(i, can, sum)
                 can.pop()
                 sum -= curr
+                while (i+1 < candidates.length && curr == candidates[i+1]) i ++
             } else if (sum + curr == target) {
                 can.push(curr)
                 ans.push([...can])
