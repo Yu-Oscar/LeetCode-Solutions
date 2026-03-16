@@ -1,6 +1,7 @@
 function combinationSum(candidates: number[], target: number): number[][] {
     let ans = []
     candidates.sort((a,b) => a - b)
+
     function recurr(idx, can, sum) {
         for (let i = idx; i < candidates.length; i++ ) {
             let curr = candidates[i]
@@ -14,7 +15,7 @@ function combinationSum(candidates: number[], target: number): number[][] {
                 can.push(curr)
                 ans.push([...can])
                 can.pop()
-                i = candidates.length
+                break
             } else break
         }
     }
