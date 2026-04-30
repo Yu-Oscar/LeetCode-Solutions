@@ -9,7 +9,7 @@ class Solution:
 
         for char in s:
             if char in mapping:
-                if len(stack) == 0 or stack.pop() != mapping[char]:
+                if stack == [] or stack.pop() != mapping[char]:
                     return False
             else:
                 stack.append(char)
