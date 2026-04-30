@@ -19,10 +19,9 @@ class Solution:
         def dfs(node):
             if not node:
                 return False
-            curr = False
-            if node.val == subRoot.val:
-                curr = isSameTree(node, subRoot)
-            return dfs(node.left) or dfs(node.right) or curr
+            if node.val == subRoot.val and isSameTree(node, subRoot):
+                return True
+            return dfs(node.left) or dfs(node.right)
         return dfs(root)
             
         
