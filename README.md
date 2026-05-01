@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0932-monotonic-array](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0932-monotonic-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1041-available-captures-for-rook](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1041-available-captures-for-rook) |
+| [1046-last-stone-weight](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1306-minimum-absolute-difference](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1762-furthest-building-you-can-reach](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1762-furthest-building-you-can-reach) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
