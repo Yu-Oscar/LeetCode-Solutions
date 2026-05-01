@@ -12,7 +12,4 @@ class Solution:
             if first > second:
                 heapq.heappush(stones, -(first-second))
         
-        if len(stones) > 0:
-            return -stones[0]
-        else:
-            return 0
+        return -stones[0] if len(stones) >= 1 else 0
