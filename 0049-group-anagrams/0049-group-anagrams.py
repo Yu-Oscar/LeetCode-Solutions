@@ -1,10 +1,7 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        dic = {}
-        for s in strs:
-            curr = ''.join(sorted(s))
-            if curr not in dic:
-                dic[curr] = []
-            dic[curr].append(s)
-
-        return list(dic.values())
+        dictionary = defaultdict(list)
+        for i in range(len(strs)):
+            key = (''.join(sorted(strs[i])))
+            dictionary[key].append(strs[i])
+        return [dictionary[value] for value in dictionary]
