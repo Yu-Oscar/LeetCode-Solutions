@@ -6,13 +6,11 @@ class Solution:
         for num in nums:
             counts[num] = counts.get(num, 0) + 1
 
-        buckets = [[] for i in range(len(nums))]
-        for key, value in counts.items():
-            buckets[value-1].append(key)
+        heap = [(-value, key) for key, value in counts.items()]
+        heapq.heapify(heap)
 
         ans = []
-        for bucket in reversed(buckets):
-            for item in bucket:
-                ans.append(item)
-                if len(ans) == k:
-                    return ans
+        while len(ans) < k:
+            ans.append(heapq.heappop(heap)[1])
+
+        return ans
