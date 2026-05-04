@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0837-most-common-word](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0837-most-common-word) |
+| [0853-car-fleet](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0853-car-fleet](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0958-sort-array-by-parity-ii](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1306-minimum-absolute-difference](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
@@ -607,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0853-car-fleet](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0933-increasing-order-search-tree](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -726,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0853-car-fleet) |
 ## Data Stream
 |  |
 | ------- |
