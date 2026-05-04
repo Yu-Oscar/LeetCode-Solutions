@@ -4,7 +4,7 @@ class Solution:
         stack = []
 
         for i in range(len(temperatures)):
-            while len(stack) > 0 and temperatures[stack[-1]] < temperatures[i]:
+            while stack and temperatures[stack[-1]] < temperatures[i]:
                 idx = stack.pop()
                 ans[idx] = i - idx
 
