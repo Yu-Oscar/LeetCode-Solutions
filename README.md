@@ -344,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1708-design-parking-system](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/1708-design-parking-system) |
 ## Simulation
@@ -602,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
