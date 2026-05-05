@@ -6,28 +6,17 @@ class Solution:
         while left < right:
             mid = (left + right) // 2
 
-            print(left, right, mid, nums[left:right+1])
             if nums[mid] == target:
                 return mid
             elif nums[mid] < nums[right]:
-                print('# right sorted')               
-                if nums[right] == target:
-                    return right
-                elif nums[mid] < target < nums[right]:
-                    print('# between mid and right')  
+                if nums[mid] < target <= nums[right]:
                     left = mid + 1  
-                else:                
-                    print('# at left')                   
+                else:                            
                     right = mid - 1
-            else:                                       
-                print('# left sorted')
-                if nums[left] == target:
-                    return left
-                elif nums[left] < target < nums[mid]:  
-                    print('# between left and mid')
+            else:                   
+                if nums[left] <= target < nums[mid]:  
                     right = mid - 1  
-                else:                                  
-                    print('# at right')
+                else:                       
                     left = mid + 1
 
         if nums[left] == target:
