@@ -734,4 +734,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Database
+|  |
+| ------- |
+| [0610-triangle-judgement](https://github.com/Yu-Oscar/LeetCode-Solutions/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
